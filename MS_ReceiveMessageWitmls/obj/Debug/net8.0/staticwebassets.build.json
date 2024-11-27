@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uE2JCaJhUReAFtS6pAsoPN3dGytfYaJBEdJcFFmdt+0=",
+  "Source": "MS_ReceiveMessageWitmls",
+  "BasePath": "_content/MS_ReceiveMessageWitmls",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

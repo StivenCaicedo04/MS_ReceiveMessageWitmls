@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MS_ReceiveMessageWitmls")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1a962ea4b88233921f2988707ceda0f87f4a20d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcfcfb12c98a6694536c37f54a7d8ed9710eb918")]
 [assembly: System.Reflection.AssemblyProductAttribute("MS_ReceiveMessageWitmls")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MS_ReceiveMessageWitmls")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

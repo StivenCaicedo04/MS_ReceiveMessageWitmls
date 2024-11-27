@@ -1,10 +1,16 @@
 ﻿using MS_ReceiveMessageWitmls.Models.Response;
+using MS_ReceiveMessageWitmls.Service.Interfaces;
 using MS_ReceiveMessageWitmls.Utils;
 
 namespace MS_ReceiveMessageWitmls.Service
 {
-    public class GetCapService
+    public class GetCapService : IGetCapService
     {
+        private readonly IXmlSerializerHelper _xmlSerializerHelper;
+        public GetCapService(IXmlSerializerHelper xmlSerializerHelper)
+        {
+            _xmlSerializerHelper = xmlSerializerHelper;
+        }
         public string GetCapInformation()
         {
             XmlSerializerHelper serializerHelper = new XmlSerializerHelper();
@@ -18,7 +24,7 @@ namespace MS_ReceiveMessageWitmls.Service
                 Funtions = new List<string> { "GetVersion", "GetCap", "GetFromStore", "AddFromStore" }
             };
 
-            var xmlResponse = serializerHelper.SerializeToXml(capServer);
+            var xmlResponse = _xmlSerializerHelper.SerializeToXml(capServer);
             return xmlResponse;
         }
     }

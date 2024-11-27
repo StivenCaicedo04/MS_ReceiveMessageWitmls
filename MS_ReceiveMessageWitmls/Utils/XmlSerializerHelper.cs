@@ -3,15 +3,16 @@ using System.Xml.Serialization;
 
 namespace MS_ReceiveMessageWitmls.Utils
 {
-    public class XmlSerializerHelper
+    public class XmlSerializerHelper : IXmlSerializerHelper
     {
+
         /// <summary>
         /// Serializa un objeto genérico a un XML como cadena.
         /// </summary>
         /// <typeparam name="T">El tipo del objeto a serializar.</typeparam>
         /// <param name="data">El objeto a serializar.</param>
         /// <returns>Una cadena XML que representa el objeto.</returns>
-        public static string SerializeToXml<T>(T data)
+        public string SerializeToXml<T>(T data)
         {
             if (data == null)
                 throw new ArgumentNullException(nameof(data), "El objeto a serializar no puede ser nulo.");

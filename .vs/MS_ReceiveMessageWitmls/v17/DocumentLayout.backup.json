@@ -1,12 +1,241 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC-RC20378\\source\\repos\\MS_ReceiveMessageWitmls\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|c:\\users\\usuario\\onedrive\\documents\\projects\\ms_receivemessagewitmls\\ms_receivemessagewitmls\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|solutionrelative:ms_receivemessagewitmls\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|c:\\users\\usuario\\onedrive\\documents\\projects\\ms_receivemessagewitmls\\ms_receivemessagewitmls\\service\\witsmlserverreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|solutionrelative:ms_receivemessagewitmls\\service\\witsmlserverreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|c:\\users\\usuario\\onedrive\\documents\\projects\\ms_receivemessagewitmls\\ms_receivemessagewitmls\\kafka\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|solutionrelative:ms_receivemessagewitmls\\kafka\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|c:\\users\\usuario\\onedrive\\documents\\projects\\ms_receivemessagewitmls\\ms_receivemessagewitmls\\utils\\xmlserializerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|solutionrelative:ms_receivemessagewitmls\\utils\\xmlserializerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|c:\\users\\usuario\\onedrive\\documents\\projects\\ms_receivemessagewitmls\\ms_receivemessagewitmls\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|solutionrelative:ms_receivemessagewitmls\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|c:\\users\\usuario\\onedrive\\documents\\projects\\ms_receivemessagewitmls\\ms_receivemessagewitmls\\service\\getfromstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|solutionrelative:ms_receivemessagewitmls\\service\\getfromstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|c:\\users\\usuario\\onedrive\\documents\\projects\\ms_receivemessagewitmls\\ms_receivemessagewitmls\\service\\getcapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|solutionrelative:ms_receivemessagewitmls\\service\\getcapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|c:\\users\\usuario\\onedrive\\documents\\projects\\ms_receivemessagewitmls\\ms_receivemessagewitmls\\models\\response\\getfrominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|solutionrelative:ms_receivemessagewitmls\\models\\response\\getfrominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|c:\\users\\usuario\\onedrive\\documents\\projects\\ms_receivemessagewitmls\\ms_receivemessagewitmls\\service\\interfaces\\igetfromstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|solutionrelative:ms_receivemessagewitmls\\service\\interfaces\\igetfromstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|c:\\users\\usuario\\onedrive\\documents\\projects\\ms_receivemessagewitmls\\ms_receivemessagewitmls\\models\\response\\getcapinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|solutionrelative:ms_receivemessagewitmls\\models\\response\\getcapinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|c:\\users\\usuario\\onedrive\\documents\\projects\\ms_receivemessagewitmls\\ms_receivemessagewitmls\\utils\\ixmlserializerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|solutionrelative:ms_receivemessagewitmls\\utils\\ixmlserializerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|c:\\users\\usuario\\onedrive\\documents\\projects\\ms_receivemessagewitmls\\ms_receivemessagewitmls\\service\\interfaces\\igetcapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|solutionrelative:ms_receivemessagewitmls\\service\\interfaces\\igetcapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|c:\\users\\usuario\\onedrive\\documents\\projects\\ms_receivemessagewitmls\\ms_receivemessagewitmls\\service\\interfaces\\iwitsmlserverreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3DD410-4EF0-45E2-94ED-53D36A3966DC}|MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj|solutionrelative:ms_receivemessagewitmls\\service\\interfaces\\iwitsmlserverreceive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\appsettings.json",
+              "RelativeDocumentMoniker": "MS_ReceiveMessageWitmls\\appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\appsettings.json",
+              "RelativeToolTip": "MS_ReceiveMessageWitmls\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T00:06:42.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Program.cs",
+              "RelativeDocumentMoniker": "MS_ReceiveMessageWitmls\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Program.cs",
+              "RelativeToolTip": "MS_ReceiveMessageWitmls\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:05:51.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KafkaProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Kafka\\KafkaProducerService.cs",
+              "RelativeDocumentMoniker": "MS_ReceiveMessageWitmls\\Kafka\\KafkaProducerService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Kafka\\KafkaProducerService.cs",
+              "RelativeToolTip": "MS_ReceiveMessageWitmls\\Kafka\\KafkaProducerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:04:33.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetFromInformation.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Models\\Response\\GetFromInformation.cs",
+              "RelativeDocumentMoniker": "MS_ReceiveMessageWitmls\\Models\\Response\\GetFromInformation.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Models\\Response\\GetFromInformation.cs",
+              "RelativeToolTip": "MS_ReceiveMessageWitmls\\Models\\Response\\GetFromInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:03:20.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGetFromStoreService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Service\\Interfaces\\IGetFromStoreService.cs",
+              "RelativeDocumentMoniker": "MS_ReceiveMessageWitmls\\Service\\Interfaces\\IGetFromStoreService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Service\\Interfaces\\IGetFromStoreService.cs",
+              "RelativeToolTip": "MS_ReceiveMessageWitmls\\Service\\Interfaces\\IGetFromStoreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:15:36.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetFromStoreService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Service\\GetFromStoreService.cs",
+              "RelativeDocumentMoniker": "MS_ReceiveMessageWitmls\\Service\\GetFromStoreService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Service\\GetFromStoreService.cs",
+              "RelativeToolTip": "MS_ReceiveMessageWitmls\\Service\\GetFromStoreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:14:59.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IXmlSerializerHelper.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Utils\\IXmlSerializerHelper.cs",
+              "RelativeDocumentMoniker": "MS_ReceiveMessageWitmls\\Utils\\IXmlSerializerHelper.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Utils\\IXmlSerializerHelper.cs",
+              "RelativeToolTip": "MS_ReceiveMessageWitmls\\Utils\\IXmlSerializerHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:40:59.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XmlSerializerHelper.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Utils\\XmlSerializerHelper.cs",
+              "RelativeDocumentMoniker": "MS_ReceiveMessageWitmls\\Utils\\XmlSerializerHelper.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Utils\\XmlSerializerHelper.cs",
+              "RelativeToolTip": "MS_ReceiveMessageWitmls\\Utils\\XmlSerializerHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:58:21.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WitsmlServerReceive.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Service\\WitsmlServerReceive.cs",
+              "RelativeDocumentMoniker": "MS_ReceiveMessageWitmls\\Service\\WitsmlServerReceive.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Service\\WitsmlServerReceive.cs",
+              "RelativeToolTip": "MS_ReceiveMessageWitmls\\Service\\WitsmlServerReceive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:48:08.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGetCapService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Service\\Interfaces\\IGetCapService.cs",
+              "RelativeDocumentMoniker": "MS_ReceiveMessageWitmls\\Service\\Interfaces\\IGetCapService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Service\\Interfaces\\IGetCapService.cs",
+              "RelativeToolTip": "MS_ReceiveMessageWitmls\\Service\\Interfaces\\IGetCapService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:51:05.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetCapService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Service\\GetCapService.cs",
+              "RelativeDocumentMoniker": "MS_ReceiveMessageWitmls\\Service\\GetCapService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Service\\GetCapService.cs",
+              "RelativeToolTip": "MS_ReceiveMessageWitmls\\Service\\GetCapService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:06:09.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetCapInformation.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Models\\Response\\GetCapInformation.cs",
+              "RelativeDocumentMoniker": "MS_ReceiveMessageWitmls\\Models\\Response\\GetCapInformation.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Models\\Response\\GetCapInformation.cs",
+              "RelativeToolTip": "MS_ReceiveMessageWitmls\\Models\\Response\\GetCapInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:03:55.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IWitsmlServerReceive.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Service\\Interfaces\\IWitsmlServerReceive.cs",
+              "RelativeDocumentMoniker": "MS_ReceiveMessageWitmls\\Service\\Interfaces\\IWitsmlServerReceive.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\Service\\Interfaces\\IWitsmlServerReceive.cs",
+              "RelativeToolTip": "MS_ReceiveMessageWitmls\\Service\\Interfaces\\IWitsmlServerReceive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:47:03.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

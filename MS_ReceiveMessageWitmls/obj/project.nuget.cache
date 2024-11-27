@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "MVOXjNfTFnk=",
+  "dgSpecHash": "ldMC8q4CfVE=",
   "success": true,
   "projectFilePath": "C:\\Users\\USUARIO\\OneDrive\\Documents\\Projects\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls\\MS_ReceiveMessageWitmls.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\confluent.kafka\\2.6.1\\confluent.kafka.2.6.1.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\librdkafka.redist\\2.6.1\\librdkafka.redist.2.6.1.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.0\\microsoft.bcl.cryptography.9.0.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.9\\microsoft.netcore.platforms.3.1.9.nupkg.sha512",
